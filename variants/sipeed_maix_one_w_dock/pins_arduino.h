@@ -4,8 +4,8 @@
 #include <stdint.h>
 
 // UART
-#define UART1_TX            (4)
-#define UART1_RX            (5)
+#define UART1_TX            (5)
+#define UART1_RX            (4)
 
 #define TFT_CSX_PIN         (36)
 #define TFT_RST_PIN         (37)
